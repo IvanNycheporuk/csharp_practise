@@ -1,0 +1,7 @@
+C:\Users\ivan.nycheporuk\source\repos\hw1\task2\bin\Debug\task2.exe.config
+C:\Users\ivan.nycheporuk\source\repos\hw1\task2\bin\Debug\task2.exe
+C:\Users\ivan.nycheporuk\source\repos\hw1\task2\bin\Debug\task2.pdb
+C:\Users\ivan.nycheporuk\source\repos\hw1\task2\obj\Debug\task2.csprojAssemblyReference.cache
+C:\Users\ivan.nycheporuk\source\repos\hw1\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\ivan.nycheporuk\source\repos\hw1\task2\obj\Debug\task2.exe
+C:\Users\ivan.nycheporuk\source\repos\hw1\task2\obj\Debug\task2.pdb
