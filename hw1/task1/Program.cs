@@ -6,9 +6,7 @@ namespace task1
     {
         static void Main(string[] args)
         {
-            var book = new Book<decimal>("Some test");
-
-            Console.WriteLine(book.Test);
+            var book = new Book<decimal>();
 
             book.BookName = "Test";
             book.BookPrice = 123;

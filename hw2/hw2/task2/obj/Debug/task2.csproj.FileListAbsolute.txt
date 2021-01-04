@@ -1,0 +1,11 @@
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\bin\Debug\task2.exe.config
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\bin\Debug\task2.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\bin\Debug\task2.pdb
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\bin\Debug\task1.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\bin\Debug\task1.pdb
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\bin\Debug\task1.exe.config
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\obj\Debug\task2.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\obj\Debug\task2.csproj.CopyComplete
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\obj\Debug\task2.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw2\hw2\task2\obj\Debug\task2.pdb

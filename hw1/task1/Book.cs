@@ -5,16 +5,9 @@ using System.Text;
 namespace task1
 {
     class Book<T>
-    {            
-        public Book(string test)
-        {
-            Test = test;
-        }
-
+    {          
         private string Name;
         private T Price;
-
-        public string Test { get; private set; }
 
         public string BookName
         {

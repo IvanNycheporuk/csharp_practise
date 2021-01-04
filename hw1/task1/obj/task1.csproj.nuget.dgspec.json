@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivan.nycheporuk\\source\\repos\\hw1\\task1\\task1.csproj": {}
+    "C:\\Users\\Ivan\\Desktop\\c#\\csharp_practise\\hw1\\task1\\task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivan.nycheporuk\\source\\repos\\hw1\\task1\\task1.csproj": {
+    "C:\\Users\\Ivan\\Desktop\\c#\\csharp_practise\\hw1\\task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivan.nycheporuk\\source\\repos\\hw1\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\c#\\csharp_practise\\hw1\\task1\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "C:\\Users\\ivan.nycheporuk\\source\\repos\\hw1\\task1\\task1.csproj",
-        "packagesPath": "C:\\Users\\ivan.nycheporuk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivan.nycheporuk\\source\\repos\\hw1\\task1\\obj\\",
+        "projectPath": "C:\\Users\\Ivan\\Desktop\\c#\\csharp_practise\\hw1\\task1\\task1.csproj",
+        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ivan\\Desktop\\c#\\csharp_practise\\hw1\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ivan.nycheporuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
