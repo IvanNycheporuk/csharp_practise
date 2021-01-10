@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace task3
 {
@@ -32,6 +29,24 @@ namespace task3
             for (var i = test.Count-1; i > 0; i--)
             {
                 Console.WriteLine(test.Keys[i] + " " + test.Values[i]);
+            }
+
+            Console.ReadKey();
+
+            var newDictionary = new Dictionary<int, string>();
+
+            newDictionary.Add(1, "A");
+            newDictionary.Add(2100, "A");
+            newDictionary.Add(322, "A");
+            newDictionary.Add(111, "A");
+            newDictionary.Add(131, "A");
+            newDictionary.Add(231, "A");
+            newDictionary.Add(5631, "A");
+            newDictionary.Add(7109, "A");
+
+            foreach(var item in newDictionary)
+            {
+                Console.WriteLine(item);
             }
 
             Console.ReadKey();
