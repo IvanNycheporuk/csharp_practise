@@ -21,17 +21,35 @@
 
         public void Add(T a)
         {
-            array[Count++] = a;            
+            T[] tempArray = new T[array.Length + 1];
+
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                tempArray[i] = array[i];
+            }
+
+            tempArray[array.Length] = a;
+
+            array = tempArray;
         }   
 
         public void Clear()
         {
-
+            array = new T[20];
         }
 
-        public bool Contains(T a)
+        public bool Contains(T item)
         {
-            return true;
+            for (int i = 0; i < array.Length; i++)
+            {
+                if ((int)(object)array[i] == (int)(object)item)
+                {
+                    return true;
+                }
+            }
+
+            return false;
         }
     }
 }
