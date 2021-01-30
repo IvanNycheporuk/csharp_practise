@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw6\task3_Reflector\bin\Debug\task3_Reflector.exe.config
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw6\task3_Reflector\bin\Debug\task3_Reflector.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw6\task3_Reflector\bin\Debug\task3_Reflector.pdb
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw6\task3_Reflector\obj\Debug\task3_Reflector.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw6\task3_Reflector\obj\Debug\task3_Reflector.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw6\task3_Reflector\obj\Debug\task3_Reflector.pdb

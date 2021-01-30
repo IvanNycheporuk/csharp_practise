@@ -1,0 +1,1 @@
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw6\ITermometr\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
