@@ -1,0 +1,7 @@
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw8\hw8\bin\Debug\hw8.exe.config
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw8\hw8\bin\Debug\hw8.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw8\hw8\bin\Debug\hw8.pdb
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw8\hw8\obj\Debug\hw8.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw8\hw8\obj\Debug\hw8.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw8\hw8\obj\Debug\hw8.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw8\hw8\obj\Debug\hw8.pdb

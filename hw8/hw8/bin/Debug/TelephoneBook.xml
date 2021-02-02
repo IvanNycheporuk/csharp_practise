@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MyContacts>
+  <Contact TelephoneNumber="+38 099 123 45 67">
+    <Name>Mr. Test</Name>
+  </Contact>
+  <Contact TelephoneNumber="+38 099 789 01 23">
+    <Name>Test1</Name>
+  </Contact>
+  <Contact TelephoneNumber="+38 099 456 78 90">
+    <Name>Test2</Name>
+  </Contact>
+  <Contact TelephoneNumber="+38 099 111 22 33">
+    <Name>Test3</Name>
+  </Contact>
+</MyContacts>
