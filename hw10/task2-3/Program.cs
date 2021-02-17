@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 using System.Xml.Serialization;
 
 namespace task2_3
@@ -49,8 +50,14 @@ namespace task2_3
             stream = new FileStream("PersonAttr.xml", FileMode.Open);
             personAttr = (PersonAttr)serializer.Deserialize(stream);
             stream.Close();
+             
+            foreach( var item in personAttr.GetType().GetProperties())
+            {                
+                Console.WriteLine(item);
+            }
 
-
+            Console.WriteLine(personAttr.ToString());
+            Console.ReadKey();
         }
     }
 }

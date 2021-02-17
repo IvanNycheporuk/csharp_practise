@@ -1,2 +1,5 @@
 <?xml version="1.0"?>
-<PersonAttr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" personId="2" age="31" name="Person Attr Test" nationality="Test_Nationality_Attr" />
+<PersonAttr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" age="31" nationality="Test_Nationality_Attr">
+  <personId>2</personId>
+  <name>Person Attr Test</name>
+</PersonAttr>
