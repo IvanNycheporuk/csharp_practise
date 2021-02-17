@@ -1,0 +1,7 @@
+C:\Users\Ivan\Desktop\c#\csharp_practise\New folder\hw10\hw10\bin\Debug\hw10.exe.config
+C:\Users\Ivan\Desktop\c#\csharp_practise\New folder\hw10\hw10\bin\Debug\hw10.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\New folder\hw10\hw10\bin\Debug\hw10.pdb
+C:\Users\Ivan\Desktop\c#\csharp_practise\New folder\hw10\hw10\obj\Debug\hw10.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\c#\csharp_practise\New folder\hw10\hw10\obj\Debug\hw10.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\c#\csharp_practise\New folder\hw10\hw10\obj\Debug\hw10.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\New folder\hw10\hw10\obj\Debug\hw10.pdb
