@@ -1,0 +1,7 @@
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task2_rain\bin\Debug\task2_rain.exe.config
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task2_rain\bin\Debug\task2_rain.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task2_rain\bin\Debug\task2_rain.pdb
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task2_rain\obj\Debug\task2_rain.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task2_rain\obj\Debug\task2_rain.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task2_rain\obj\Debug\task2_rain.pdb
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task2_rain\obj\Debug\task2_rain.csprojAssemblyReference.cache

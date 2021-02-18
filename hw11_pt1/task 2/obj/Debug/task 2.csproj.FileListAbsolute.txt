@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task 2\bin\Debug\task 2.exe.config
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task 2\bin\Debug\task 2.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task 2\bin\Debug\task 2.pdb
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task 2\obj\Debug\task 2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task 2\obj\Debug\task 2.exe
+C:\Users\Ivan\Desktop\c#\csharp_practise\hw11_pt1\task 2\obj\Debug\task 2.pdb
